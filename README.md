@@ -1,6 +1,6 @@
 DNSImplementation
 =================
-Implementing a DNS server using Java RMI. One is an iterative approach while the other is a recursive approach.
+Implementing a DNS server using Java RMI. Created two servers for different domains. One is an iterative approach while the other is a recursive approach.
 
 Start Java RMI registry
 
